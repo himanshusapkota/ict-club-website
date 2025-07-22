@@ -44,7 +44,7 @@ const events = [
     ],
     gallery: [
       "/images/ictkalika-logo.png",
-      "",
+      "/images/ictkalika-logo.png",
     ],
   },
   {
@@ -64,10 +64,11 @@ const events = [
     ],
     gallery: [
       "/images/ictkalika-logo.png",
-      "",
+      "/images/ictkalika-logo.png",
     ],
   },
-  
+
+ 
 ]
 
 export default function EventsPage() {

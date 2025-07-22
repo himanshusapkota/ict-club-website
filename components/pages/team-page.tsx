@@ -63,7 +63,7 @@ const boardMembers = [
     social: {
       linkedin: "https://linkedin.com/in/nayan135",
       twitter: "https://twitter.com/nooneknows135",
-      email: "nayan@nayanacharya.xyz",
+      email: "nayan@ypstem.org",
     },
   },
   {
@@ -91,6 +91,18 @@ const boardMembers = [
     },
   },
   {
+    name: "Bishnu Adhikari",
+    position: "Head of Executive",
+    image: "/images/prazwal-roka.jpg",
+    bio: "Contributing to strategic planning and club operations.",
+    skills: ["Strategy", "Operations", "Member Engagement"],
+    social: {
+      linkedin: "https://linkedin.com/in/prazwalroka",
+      email: "prazwalroka@gmail.com",
+    },
+  },
+  
+   {
     name: "PRAZWAL ROKA",
     position: "Executive Member",
     image: "/images/prazwal-roka.jpg",
@@ -101,6 +113,7 @@ const boardMembers = [
       email: "prazwalroka@gmail.com",
     },
   },
+  
 ]
 
 // Regular Members (names and socials only)

@@ -8,7 +8,7 @@ const faqs = [
   {
     question: "How can I join the ICT Club?",
     answer:
-      "You can join the ICT Club by attending our orientation sessions held at the beginning of each semester. Simply fill out the membership form and participate in our introductory activities. We welcome students from all backgrounds who are passionate about technology.",
+      "You can join the ICT Club by attending our orientation sessions held at the beginning of each semester. Simply fill out the membership form at membership.ictkalika.tech and participate in our activities. We welcome students from all backgrounds who are passionate about technology.",
   },
   {
     question: "What activities does the club organize?",
@@ -23,12 +23,12 @@ const faqs = [
   {
     question: "What are the membership fees?",
     answer:
-      "The annual membership fee is minimal and covers club activities, resources, and event participation. The exact amount is announced at the beginning of each academic year. We also offer scholarships for students who demonstrate financial need.",
+      "The annual membership fee is minimal and covers club activities, resources, and event participation.",
   },
   {
     question: "How often does the club meet?",
     answer:
-      "We have regular weekly meetings every Friday after classes, along with special sessions for workshops and events. The schedule is flexible and announced in advance through our communication channels.",
+      "We have regular weekly meetings on the 1st and 3rd Friday of each month, along with special sessions for workshops and events. The schedule is flexible and announced in advance through our communication channels.",
   },
   {
     question: "Can I propose my own project or workshop?",
@@ -38,12 +38,12 @@ const faqs = [
   {
     question: "What career opportunities does the club provide?",
     answer:
-      "The club offers networking opportunities with alumni working in top tech companies, internship referrals, career guidance sessions, resume building workshops, and connections with industry professionals. Many of our alumni have secured positions at leading technology companies.",
+      "The club offers networking opportunities with alumni working in top tech industries, internship referrals, career guidance sessions, resume building workshops, and connections with industry professionals. Many of our alumni have secured positions at leading technology companies.",
   },
   {
     question: "How can I stay updated with club activities?",
     answer:
-      "You can stay updated through our official email list (ictkalika82@gmail.com), social media channels, and our club website. We also have a WhatsApp group for members and send regular newsletters about upcoming events and opportunities.",
+      "You can stay updated through our official email list (ictkalika82@gmail.com), social media channels, and our club website. We also have a discord server for members and send regular newsletters about upcoming events and opportunities.",
   },
 ]
 
