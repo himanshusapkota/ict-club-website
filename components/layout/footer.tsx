@@ -58,6 +58,9 @@ export default function Footer() {
           <p className="text-gray-400 text-sm mt-2">
             Crafted with passion by NAYAN & NARAYAN
           </p>
+            <p className="text-gray-400 text-sm mt-2">
+           Contributors: Shasank Shrestha | Anshu Aryal
+          </p>
         </div>
       </div>
     </motion.footer>
