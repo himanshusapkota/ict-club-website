@@ -149,7 +149,7 @@ const boardMembers = [
     bio: "Engaging team with various events throughout the club.",
     skills: ["Leadership", "Communication", "Management"],
     social: {
-      linkedin: "https://www.linkedin.com/in/himanshu-sapkota-3b5488339?originalSubdomain=np",
+      linkedin: "https://www.linkedin.com/in/himanshusapkota/",
       email: "himanshuspkt@gmail.com",
     },
   },
